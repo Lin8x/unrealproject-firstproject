@@ -17,11 +17,11 @@ My First Project with Unreal Engine 4!
 
 <p align="center"> Check out my youtube video on the game!</p> <p align="center">
 
-  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot1.png?raw=true" alt="youtubechannel" width="64%" height="36%"> 
+  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot2.png?raw=true" alt="youtubechannel" width="64%" height="36%"> 
   
   <br>
   
-  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot2.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
+  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot1.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
   
   <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot3.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
   
