@@ -49,9 +49,11 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 <table style="width:100%">
   <tr>
+    <b>
     <td>Color On Image</td>
     <td>Button</td>
     <td>Input / Action</td>
+    </b>
   </tr>
   <tr>
     <td>Tan</td>
