@@ -1,5 +1,7 @@
 # <p align="center"> My First Unreal Engine Project </p>
 
+---------------------------------------------------------------
+
 ### <p align="center"> About This Project </p>
 
 My First Project with Unreal Engine 4!
@@ -9,6 +11,8 @@ My First Project with Unreal Engine 4!
 - Feel free to look at the game and its source code! 
 @@ All code, anything that aren't assets or videos, are open source! @@
 ```
+
+---------------------------------------------------------------
 
 ### <p align="center"> Game Screenshots & Video </p>
 
@@ -32,6 +36,8 @@ My First Project with Unreal Engine 4!
   <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot5.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
   
 </p>
+
+---------------------------------------------------------------
 
 ### <p align="center"> How to play? </p>
 
