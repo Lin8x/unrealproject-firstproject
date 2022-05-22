@@ -49,8 +49,8 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 <p align="center">
 Tan    | (WASD)       | Character Movement<br>
-Cyan   | (Left Shift) | Sprint<br>
-Green  | (R & C)      | Crouch<br>
+Cyan   | (Left Shift) | Sprint            <br>
+Green  | (R & C)      | Crouch            <br>
 Orange | (ESC & P)    | Pause Game
 </p>
 
