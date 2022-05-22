@@ -21,7 +21,7 @@ My First Project with Unreal Engine 4!
   
   <br>
   
-  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot2.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
+  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot2.png?raw=true" alt="youtubechannel" width="64%" height="36%"> 
   
   <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/Screenshot3.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
   
