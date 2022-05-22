@@ -5,8 +5,9 @@
 ### <p align="center"> About This Project </p>
 
 My First Project with Unreal Engine 4!
+<br><br>
 The game had programming in [Blueprints](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/Overview/), UI design in [UMG](https://docs.unrealengine.com/5.0/en-US/umg-ui-designer-for-unreal-engine/), photo editing & image creation in [Photoshop](https://www.adobe.com/products/photoshop.html) & [GIMP](https://www.gimp.org/), and uses sounds from [freefx.co.uk](freefx.co.uk)
-
+<br><br>
 This project's goal was to try out the engine, learn the fundamentals, 
 get a basic UI, and enable player movement features such as crouching or sprinting.
 
