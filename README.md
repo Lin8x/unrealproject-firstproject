@@ -48,9 +48,9 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 <p align="center">  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/keyboardlayout.png?raw=true" alt="youtubechannel" width="32%" height="18%"> </p>
 
 <p align="center">
-Tan    | (WASD)       | Character Movement
-Cyan   | (Left Shift) | Sprint
-Green  | (R & C)      | Crouch
+Tan    | (WASD)       | Character Movement<br>
+Cyan   | (Left Shift) | Sprint<br>
+Green  | (R & C)      | Crouch<br>
 Orange | (ESC & P)    | Pause Game
 </p>
 
