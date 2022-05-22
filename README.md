@@ -21,7 +21,7 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 ### <p align="center"> Game Screenshots & Video </p>
 
-<p align="center">[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=WkpdlDLydvI))</p>
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=WkpdlDLydvI))
 
 <p align="center"> Check out my youtube video on the game!</p> <p align="center">
 
