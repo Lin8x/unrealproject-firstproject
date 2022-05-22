@@ -45,4 +45,6 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 ### <p align="center"> How to play? </p>
 
+<img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/keyboardlayout.png?raw=true" alt="youtubechannel" width="32%" height="18%"> 
 
+Download the game [here](https://github.com/Lin8x/unrealproject-firstproject/releases/download/Releases/UnrealEngineGame1.zip)!
