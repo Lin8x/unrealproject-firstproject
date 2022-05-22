@@ -18,7 +18,6 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 - Feel free to look at the game and its source code! 
 @@ All code, anything that aren't assets or videos, are open source! @@
 ```
-<br>
 
 ---------------------------------------------------------------
 
