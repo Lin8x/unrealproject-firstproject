@@ -75,12 +75,6 @@ get a basic UI, and enable player movement features such as crouching or sprinti
   </tr>
 </table>
 
-Tan    | (WASD)       | Character Movement<br>
-Cyan   | (Left Shift) | Sprint            <br>
-Green  | (R & C)      | Crouch            <br>
-Orange | (ESC & P)    | Pause Game
-</p>
-
 ---------------------------------------------------------------
 
 <p align="center"> Download the game <a href="https://github.com/Lin8x/unrealproject-firstproject/releases/download/Releases/UnrealEngineGame1.zip">here</a>! </p>
