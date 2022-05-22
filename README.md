@@ -22,7 +22,7 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 ### <p align="center"> Game Screenshots & Video </p>
 
-[![Watch the video](https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/YouTubeChannel.png?raw=true|width=40px)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/watch?v=WkpdlDLydvI))
+<p align="center"> <img src="https://youtu.be/vt5fpE0bzSY" alt="youtubechannel" width="64%" height="36%"> </p> 
 
 <p align="center"> Check out my youtube video on the game!</p> <p align="center">
 
