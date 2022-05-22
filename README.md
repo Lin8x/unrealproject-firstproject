@@ -77,6 +77,6 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 ---------------------------------------------------------------
 
-### Download
+### <p align="center"> Download </p>
       
 <p align="center"> Download the game <a href="https://github.com/Lin8x/unrealproject-firstproject/releases/download/Releases/UnrealEngineGame1.zip">here</a>! </p>
