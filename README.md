@@ -53,6 +53,11 @@ get a basic UI, and enable player movement features such as crouching or sprinti
     <td>TWASD</td>
     <td>Character Movement</td>
   </tr>
+  <tr>
+    <td>Tan</td>
+    <td>TWASD</td>
+    <td>Character Movement</td>
+  </tr>
 </table>
 
 Tan    | (WASD)       | Character Movement<br>
