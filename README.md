@@ -10,7 +10,7 @@ The game had programming in [Blueprints](https://docs.unrealengine.com/4.27/en-U
 <br><br>
 This project's goal was to try out the engine, learn the fundamentals, 
 get a basic UI, and enable player movement features such as crouching or sprinting.
-
+<br><br>
 ```diff
 - It is important to note that this is merely a project and not a full game!
 - Feel free to look at the game and its source code! 
