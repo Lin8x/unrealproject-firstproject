@@ -47,7 +47,7 @@ get a basic UI, and enable player movement features such as crouching or sprinti
 
 <p align="center">  <img src="https://github.com/Lin8x/unrealproject-firstproject/blob/main/readmeimages/keyboardlayout.png?raw=true" alt="youtubechannel" width="32%" height="18%"> </p>
 
-<table class="center" style="width:100%">
+<table style="width:100% solid black;margin-left:auto;margin-right:auto;">
   <tr>
     <td><b><i>Color On Image</td>
     <td><b><i>Button</td>
