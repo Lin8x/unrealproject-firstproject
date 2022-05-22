@@ -54,9 +54,19 @@ get a basic UI, and enable player movement features such as crouching or sprinti
     <td>Character Movement</td>
   </tr>
   <tr>
-    <td>Tan</td>
-    <td>TWASD</td>
-    <td>Character Movement</td>
+    <td>Cyan</td>
+    <td>Left Shift</td>
+    <td>Sprint</td>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>R & C</td>
+    <td>Crouch</td>
+  </tr>
+  <tr>
+    <td>Orange</td>
+    <td>ESC & P</td>
+    <td>Pause Game</td>
   </tr>
 </table>
 
